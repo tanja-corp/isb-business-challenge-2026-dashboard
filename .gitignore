@@ -1,0 +1,7 @@
+*
+!.gitignore
+!AGENTS.md
+!ISB_BC2026_dashboard.html
+!.github/
+!.github/workflows/
+!.github/workflows/pages.yml
